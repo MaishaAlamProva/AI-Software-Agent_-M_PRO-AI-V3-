@@ -23,22 +23,6 @@
 
 ---
 
-## 📦 Installation
-
-**1.** **Clone the repository:**
-   ```bash
-   git clone [https://github.com/MaishaAlamProva/MaishaAlamProva-AI-Software-Agent_-M_PRO-AI-V3-](https://github.com/MaishaAlamProva/MaishaAlamProva-AI-Software-Agent_-M_PRO-AI-V3-)
-   cd MaishaAlamProva-AI-Software-Agent_-M_PRO-AI-V3-
-**2. Install dependencies:**
-  pip install langchain langchain-community langchain-core \
-langchain-huggingface langchain-groq faiss-cpu \
-sentence-transformers rich
-
-**3.** **Set your API Key:**
-   You will need a Groq API key to power the architect's logic.
-
----
-
 ## 📋 Usage
 
 Run the `AI Software Agent.ipynb` notebook or the Python script.
